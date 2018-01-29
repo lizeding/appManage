@@ -1,0 +1,11 @@
+html, body, #app, .wrapper{
+  height: 100%;
+  width: 100%;
+}
+.app-write-version{
+  position: absolute;
+  bottom: 0;
+  width: 100px;
+  text-align: left;
+}
+
